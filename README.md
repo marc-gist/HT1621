@@ -22,9 +22,15 @@ Operating voltage: 2.4V~5.2V
 The idea is to give to create and collect the info, libraries and boards to allow anyone to reverse and reuse old salvaged LCDs either ones that already have the chip as a driver or other ones that can be hacked to use with this chip 
 
 ---
+**TODO:** 
+- Make OpenSourceVersion of a HT1621 Breakoutboard
+- Find the best method to reverse the codes for unknown LCDs
+- Create documenta page for collecting this knowlage
+- Test the lib in a OpenDay @ the Lab, dedicated to arduino display hacking and writing 
+
+---
 **REFERENCE LINKS**
 (HT1621 BreakoutBoard) http://blog.ankitdaf.com/ht1621b-display-controller-breakout-board/ 
-**TODO:** OpenSourceVersion of the Breakoutboard
 http://arduino.ru/forum/apparatnye-voprosy/podklyuchenie-i-ispolzovanie-zhk-segmentnogo-indikatora
 
 --- 
