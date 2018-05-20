@@ -19,6 +19,8 @@ Operating voltage: 2.4V~5.2V
 
 *datasheet:* http://www.seeedstudio.com/document/HT1621.pdf
 
+Note: RD pin is optional
+
 
 **HOW:**
 
